@@ -5,5 +5,11 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Resources"
+    url: /resources/
+  - title: "Mania"
+    url: /mania/
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/

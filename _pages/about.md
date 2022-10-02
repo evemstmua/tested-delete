@@ -2,5 +2,9 @@
 permalink: /about/
 title: "About"
 ---
+Hi visitor! Welcome to my website.
 
-试用中文。是否能够输入。
+## Background
+I am a studnet at XX University.
+
+## Personal
